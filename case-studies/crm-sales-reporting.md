@@ -1,5 +1,7 @@
 # CRM sales reporting — structured deal assessments
 
+![CRM Sales Reporting — demo project with eight unique Deal IDs and zero duplicate rows in a replay test.](../assets/crm-sales-reporting-cover.png)
+
 **Type:** Independent portfolio demo using synthetic Zoho CRM data.
 
 ## Why I built it
@@ -22,6 +24,10 @@ A reusable context tool keeps data retrieval separate from reporting. The Deal I
 - Eight deals scored: three Critical, three Medium and two Normal.
 - After repeated writes: eight rows, eight unique Deal IDs and zero duplicate rows.
 - Successful executions were captured for all three reporting workflows and the context workflow.
+
+## Replay-test evidence
+
+![Repeat-write check: eight rows, eight unique Deal IDs and zero duplicates after the existing scores were updated.](../assets/sales-replay-proof.png)
 
 ## Current limits
 

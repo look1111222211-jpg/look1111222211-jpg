@@ -1,5 +1,7 @@
 # Wix lead intake — form data across business tools
 
+![Website Lead Intake — demo workflow connecting a form, Google Sheets, Zoho CRM and AI qualification.](../assets/wix-lead-intake-cover.png)
+
 **Type:** Independent demo/training workflow.
 
 ## Why I built it
@@ -24,6 +26,10 @@ Webhook intake avoids manual transfer from the website. Explicit field mapping m
 - The portfolio includes a recorded walkthrough of the implemented route.
 
 These counts describe the implementation. They are not a measured conversion gain or a large test corpus.
+
+## Workflow evidence
+
+![Implemented n8n workflow: Wix webhook intake, operational branches, AI qualification and Klaviyo API actions.](../assets/wix-workflow.jpg)
 
 ## Current limits and next improvement
 
