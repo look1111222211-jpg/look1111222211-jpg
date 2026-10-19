@@ -20,8 +20,8 @@ A reusable context tool keeps data retrieval separate from reporting. The Deal I
 
 ## Test results
 
-- 12 sample deals reviewed; the daily analysis made seven AI tool calls.
-- Eight deals scored: three Critical, three Medium and two Normal.
+- The pipeline summary covered 12 sample deals; seven selected deals received a detailed AI review.
+- In a separate scoring test, eight deals were scored: three Critical, three Medium and two Normal.
 - After repeated writes: eight rows, eight unique Deal IDs and zero duplicate rows.
 - Successful executions were captured for all three reporting workflows and the context workflow.
 
@@ -39,4 +39,4 @@ Repeated runs should update the same business entity consistently. Stable record
 
 **Tools:** n8n, Zoho CRM, Google Sheets, OpenRouter, JavaScript, Telegram.
 
-[Portfolio and execution evidence](https://nova-slice-e68.notion.site/Vadym-Dudka-3b7f35dfa98a80d485cfdf6ecab41b67)
+[Portfolio and execution evidence](https://nova-slice-e68.notion.site/3ecf35dfa98a80688d0ee26e116d66d2)
