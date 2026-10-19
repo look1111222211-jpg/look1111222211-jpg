@@ -35,4 +35,4 @@ Model output needs structural validation and explicit threshold tests. Checking 
 
 **Tools:** n8n, Google Drive, Google Sheets, OpenRouter, transcription and QA models, JavaScript, Telegram Bot API.
 
-[Portfolio, demo and execution evidence](https://nova-slice-e68.notion.site/Vadym-Dudka-3b7f35dfa98a80d485cfdf6ecab41b67)
+[Portfolio, demo and execution evidence](https://nova-slice-e68.notion.site/3fbf35dfa98a81b5bc53dc0abd06f342)
