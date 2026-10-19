@@ -28,4 +28,4 @@ I document the workflow logic, important decisions, test results, demo evidence 
 
 ### Find my work
 
-[Full portfolio](https://nova-slice-e68.notion.site/Vadym-Dudka-3b7f35dfa98a80d485cfdf6ecab41b67) · [Upwork](https://www.upwork.com/freelancers/~0138d466ad15bebfae) · [LinkedIn](https://www.linkedin.com/in/vadym-dudka-4875bb2a7/)
+[Full portfolio](https://nova-slice-e68.notion.site/Vadym-Dudka-3b7f35dfa98a80d485cfdf6ecab41b67) · [Upwork](https://www.upwork.com/freelancers/~0138d466ad15bebfae) · [LinkedIn](https://www.linkedin.com/in/vadym-dudka/)
