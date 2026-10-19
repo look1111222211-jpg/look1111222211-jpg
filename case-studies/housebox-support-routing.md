@@ -32,4 +32,4 @@ A useful automation needs persistent state and visible failure paths, as well as
 
 **Tools:** n8n, Gmail, Google Sheets, Google Docs, AI classification, Telegram.
 
-[Portfolio and execution evidence](https://nova-slice-e68.notion.site/Vadym-Dudka-3b7f35dfa98a80d485cfdf6ecab41b67)
+[Portfolio and execution evidence](https://nova-slice-e68.notion.site/3fbf35dfa98a81aba5e1d06da1704c54)
